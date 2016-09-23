@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SecurityDemo</string>
+    <string name="btn_name">点击我</string>
+</resources>
