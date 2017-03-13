@@ -67,7 +67,7 @@ public final class DESUtil {
      * @param data   字符串转换成字节数组
      * @param keyStr 密钥
      * @return 加密后的字符串
-     * @throws Exception 呵呵哒，自己意会
+     * @throws Exception
      */
     public static String encryptStr(@NonNull byte[] data,
                                     @Nullable String keyStr) throws Exception {
